@@ -1,4 +1,4 @@
-# URL Shortener - Spring Boot
+# URL Shortener REST API- Spring Boot
 
 A REST API project that converts long URLs into short URLs.
 
